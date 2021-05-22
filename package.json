@@ -9,11 +9,11 @@
   "author": "TheAlgorithms",
   "license": "GPL-3.0",
   "dependencies": {
-    "@babel/core": "^7.11.6",
-    "@babel/plugin-transform-runtime": "^7.11.5",
-    "@babel/preset-env": "^7.11.5",
-    "jsdom": "^16.3.0",
-    "node": "^14.13.1",
+    "@babel/core": "^7.14.3",
+    "@babel/plugin-transform-runtime": "^7.14.3",
+    "@babel/preset-env": "^7.14.2",
+    "jsdom": "^16.5.3",
+    "node": "^14.16.1",
     "node-fetch": "2.6.1"
   },
   "standard": {
@@ -22,9 +22,9 @@
     ]
   },
   "devDependencies": {
-    "babel-jest": "^26.3.0",
+    "babel-jest": "^26.6.3",
     "doctest": "^0.17.1",
-    "jest": "^26.4.2",
+    "jest": "^26.6.3",
     "standard": "^14.3.4"
   }
 }
